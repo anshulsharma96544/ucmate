@@ -1,0 +1,143 @@
+{
+  "v": "5.1.9",
+  "fr": 25,
+  "ip": 0,
+  "op": 149,
+  "w": 720,
+  "h": 663,
+  "nm": "top",
+  "ddd": 0,
+  "assets": [
+    {
+      "id": "image_0",
+      "w": 62,
+      "h": 160,
+      "u": "https://static.snaptube.in/snaptube/lotties/screenshot/images/",
+      "p": "cover_2.png"
+    },
+    {
+      "id": "image_1",
+      "w": 62,
+      "h": 160,
+      "u": "https://static.snaptube.in/snaptube/lotties/screenshot/images/",
+      "p": "cover_1.png"
+    },
+    {
+      "id": "image_2",
+      "w": 1861,
+      "h": 160,
+      "u": "https://static.snaptube.in/snaptube/lotties/screenshot/images/",
+      "p": "Speeddial.png"
+    },
+    {
+      "id": "image_3",
+      "w": 720,
+      "h": 663,
+      "u": "https://ucmateapi.com/ucmate/file/ucmback.png?",
+      "p": "top.png"
+    }
+  ],
+  "layers": [
+    {
+      "ddd": 0,
+      "ind": 1,
+      "ty": 2,
+      "nm": "cover_2.png",
+      "cl": "png",
+      "refId": "image_0",
+      "sr": 1,
+      "ks": {
+        "o": { "a": 0, "k": 100, "ix": 11 },
+        "r": { "a": 0, "k": 0, "ix": 10 },
+        "p": { "a": 0, "k": [689, 310.427, 0], "ix": 2 },
+        "a": { "a": 0, "k": [31, 80, 0], "ix": 1 },
+        "s": { "a": 0, "k": [100, 100, 100], "ix": 6 }
+      },
+      "ao": 0,
+      "ip": 0,
+      "op": 750,
+      "st": 0,
+      "bm": 0
+    },
+    {
+      "ddd": 0,
+      "ind": 2,
+      "ty": 2,
+      "nm": "cover_1.png",
+      "cl": "png",
+      "refId": "image_1",
+      "sr": 1,
+      "ks": {
+        "o": { "a": 0, "k": 100, "ix": 11 },
+        "r": { "a": 0, "k": 0, "ix": 10 },
+        "p": { "a": 0, "k": [31, 310.427, 0], "ix": 2 },
+        "a": { "a": 0, "k": [31, 80, 0], "ix": 1 },
+        "s": { "a": 0, "k": [100, 100, 100], "ix": 6 }
+      },
+      "ao": 0,
+      "ip": 0,
+      "op": 750,
+      "st": 0,
+      "bm": 0
+    },
+    {
+      "ddd": 0,
+      "ind": 3,
+      "ty": 2,
+      "nm": "Speeddial.png",
+      "cl": "png",
+      "refId": "image_2",
+      "sr": 1,
+      "ks": {
+        "o": { "a": 0, "k": 100, "ix": 11 },
+        "r": { "a": 0, "k": 0, "ix": 10 },
+        "p": {
+          "a": 1,
+          "k": [
+            {
+              "i": { "x": 0.667, "y": 1 },
+              "o": { "x": 0.333, "y": 0 },
+              "n": "0p667_1_0p333_0",
+              "t": 0,
+              "s": [930.5, 310.427, 0],
+              "e": [-136.5, 310.427, 0],
+              "to": [-177.83332824707, 0, 0],
+              "ti": [177.83332824707, 0, 0]
+            },
+            { "t": 124 }
+          ],
+          "ix": 2
+        },
+        "a": { "a": 0, "k": [930.5, 80, 0], "ix": 1 },
+        "s": { "a": 0, "k": [100, 100, 100], "ix": 6 }
+      },
+      "ao": 0,
+      "ip": 0,
+      "op": 750,
+      "st": 0,
+      "bm": 0
+    },
+    {
+      "ddd": 0,
+      "ind": 4,
+      "ty": 2,
+      "nm": "top.png",
+      "cl": "png",
+      "refId": "image_3",
+      "sr": 1,
+      "ks": {
+        "o": { "a": 0, "k": 100, "ix": 11 },
+        "r": { "a": 0, "k": 0, "ix": 10 },
+        "p": { "a": 0, "k": [360, 331.5, 0], "ix": 2 },
+        "a": { "a": 0, "k": [360, 331.5, 0], "ix": 1 },
+        "s": { "a": 0, "k": [100, 100, 100], "ix": 6 }
+      },
+      "ao": 0,
+      "ip": 0,
+      "op": 750,
+      "st": 0,
+      "bm": 0
+    }
+  ],
+  "markers": []
+}
